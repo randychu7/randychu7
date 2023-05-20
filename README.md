@@ -6,6 +6,7 @@
 I'm a passionate full stack developer with a strong foundation in front-end and back-end development. Continuously learning and staying up-to-date, I'm motivated to tackle new challenges and deliver high-quality code. From responsive websites to scalable back-end systems, I strive to drive meaningful progress in the tech industry.
 
 
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
