@@ -1,6 +1,5 @@
 # Randy Chu
 
-
  ✨ Full Stack Developer✨ 
  
 I'm a passionate full stack developer with a strong foundation in front-end and back-end development. Continuously learning and staying up-to-date, I'm motivated to tackle new challenges and deliver high-quality code. From responsive websites to scalable back-end systems, I strive to drive meaningful progress in the tech industry.
